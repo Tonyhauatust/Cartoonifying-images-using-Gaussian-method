@@ -6,9 +6,11 @@
 <img width="960" alt="Screenshot (296)" src="https://user-images.githubusercontent.com/79893611/140722483-95bef445-7b88-457e-a602-1673d145e570.png">
 ## Edge retrieved example
 We input the following picture 
-![6dab7f544c0beeeb54a95d56d09485ef](https://user-images.githubusercontent.com/79893611/140723129-9d9d9c4b-a4c6-460f-9a06-4131593389c8.png)
 
+![6dab7f544c0beeeb54a95d56d09485ef](https://user-images.githubusercontent.com/79893611/140723229-257fdac8-b2a0-4e60-a473-a4227bebd1fa.png)
 
 And we get the following picture with edges retrieved
 ![Edge retrieved image](https://user-images.githubusercontent.com/79893611/140722913-082749b6-8d37-4ab9-96b4-6b9aec7faa95.png)
+
+
 

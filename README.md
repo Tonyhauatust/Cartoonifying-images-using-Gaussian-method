@@ -7,6 +7,7 @@
 
 ## Edge retrieved example
 We input the following picture 
+
 ![6dab7f544c0beeeb54a95d56d09485ef](https://user-images.githubusercontent.com/79893611/140723229-257fdac8-b2a0-4e60-a473-a4227bebd1fa.png)
 
 And we get the following picture with edges retrieved
